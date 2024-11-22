@@ -16,11 +16,16 @@ Hence shows appropriate message if unable/not connect to the internet
 
 ## Learn/Skills (Layer 2):
 
-"Learn a random skill or hobby!" at the top
+"Learn a random skill or fact!" at the top
 Many buttons (hence able to scroll down) that open/show mp4 file on that skill (and has title to summarise that skill)
 Back button at the bottom
 
 No need for internet, all files in this section are just stored locally (<- will take up space with more videos, maybe transfer to internet later?)
+
+List of videos (Need to make them, or possibly take from others? - Employ/Include others to make a video for the project?):
+- [ ] How do chess pieces move on a board
+- [ ] Lattice multiplication
+- [ ] 
 
 ## Comments
 
