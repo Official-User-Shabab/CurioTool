@@ -1,9 +1,9 @@
-# Pages
+# Apps
 
-## Main Screen (Layer 1):
+## App 1: Main Screen (Layer 1):
 
 Title and logo at the top
-Buttons include: Weather, [Need something, maybe time?], Learn/Skill
+Buttons include: Weather, Time
 
 ## Button 1 Weather (Layer 2):
 
@@ -29,7 +29,12 @@ Some ideas for what this button could be:
 - Book recommendations lists
 - Sustainability tips
 
-## Button 3 Learn/Skills (Layer 2):
+## App 2: Main Screen (Layer 1):
+
+Title and logo at the top
+Buttons include: Learn a skill, Useful resources for A-Levels, and GCSEs
+
+## Learn/Skills (Layer 2):
 
 "Learn a random skill or fact!" at the top
 Many buttons (hence able to scroll down) that open/show mp4 file on that skill (and has title to summarise that skill)
